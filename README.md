@@ -37,3 +37,5 @@
 
 # Calibrate:
 ## [How To Calibrate the Extruder Steps (Ender-3 / Ender-5 / CR-10)](https://letsprint3d.net/how-to-calibrate-the-extruder-steps-ender-3-5-cr-10/)
+## [How to calibrate the 3D printer before an extruder change](https://filament2print.com/gb/blog/33_flow-3D-printing.html)
+[Extrusion multiplier calibration](https://www.thingiverse.com/thing:1796601)
