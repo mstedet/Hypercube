@@ -32,6 +32,7 @@
 ## HotEnd:
 1 x [E3D v6 HotEnd Full Kit - 1.75mm Bowden (24v)](https://filament23d.dk/e3d-v6-hotend-full-kit-1-75mm-bowden-24v-da.html)  
 1 x [24V Blow 50mm](https://filament23d.dk/24v-blow-50mm-da.html)  
+1 x Extruder
 
 ## Control System
 1 x 24V 400W power supply  
@@ -67,9 +68,20 @@
 
 1 x Z_Nut_Braket_1.1
 
+## Drag Chain
+1 x Chain Start  
+20 x Chain Top ![DragChainTop_001_000.png](/FreeCad/DragChain/DragChainTop_001_000.png)
+20 x Chain Bund  
+1 x Chain Slut  
 
-
-# Calibrate:
-## [How To Calibrate the Extruder Steps (Ender-3 / Ender-5 / CR-10)](https://letsprint3d.net/how-to-calibrate-the-extruder-steps-ender-3-5-cr-10/)
-## [How to calibrate the 3D printer before an extruder change](https://filament2print.com/gb/blog/33_flow-3D-printing.html)
-
+# Calibrate
+## Calibrate the Extruder
+* DrVax
+  * [Calibrate Your 3d Printer Extruder](https://www.youtube.com/watch?v=lRoCwxRZsvU)
+  * [Calibrating your Extruder and Adjusting Flow Rate](https://docs.google.com/presentation/d/1wpuLDlLARoFbS7apN1uDdRoSiFpWugTFrTnqUJ-ni_s/edit#slide=id.gc6f9e470d_0_0)
+* Thomas Sanladerer
+  * [How To Calibrate the Extruder Steps (Ender-3 / Ender-5 / CR-10)](https://letsprint3d.net/how-to-calibrate-the-extruder-steps-ender-3-5-cr-10/)
+## Printing Speed
+* Thomas Sanladerer
+  * [3D printing guides - Tuning speeds](https://www.youtube.com/watch?v=7HsIZuj9vOs)  
+  * 
