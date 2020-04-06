@@ -41,7 +41,7 @@
 5 X [BIGTREETECH-TMC2130-V3.0](https://github.com/bigtreetech/BIGTREETECH-TMC2130-V3.0)  
 1 x [ESP-01S WIFI Module ESP8266 For SKR](https://www.biqu.equipment/products/esp-01s-wifi-module-esp8266-for-skr-pro)  
 
-# 3D printede materialer:
+# 3D printede materialer: [Hentest her](https://github.com/mstedet/Hypercube/tree/master/FreeCad)
 ## X-Axel
 2 x X-Axel-Battery-Dummy  
 1 x X-Axel-Bearing_A ![X-Axel-Bearing_A](FreeCad/X-Axel/X-Axel-Bearing_001a_000.png)  
