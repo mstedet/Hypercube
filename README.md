@@ -27,6 +27,7 @@
 1 x [Print Bed Rubber Heater 408 x 408 mm](https://3dstore.dk/tilbehoer/reservedele/creality-3d/cr10s/print-bed-rubber-heater-408-x-408-mm/) 
 ![Heated Bed](/images/20200405_093641.jpg)  
 1 x [PrimaCreator FlexPlate PEI 410 x 410 mm](https://3dstore.dk/tilbehoer/print-surface/primacreator-flexplate-pei-410-x-410-mm/)
+1 x Aluplate 430x430x3 mm
 
 ## HotEnd:
 1 x [E3D v6 HotEnd Full Kit - 1.75mm Bowden (24v)](https://filament23d.dk/e3d-v6-hotend-full-kit-1-75mm-bowden-24v-da.html)  
