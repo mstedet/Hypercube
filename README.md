@@ -25,7 +25,7 @@
 
 ## Heated Bed components
 1 x [Print Bed Rubber Heater 408 x 408 mm](https://3dstore.dk/tilbehoer/reservedele/creality-3d/cr10s/print-bed-rubber-heater-408-x-408-mm/) 
-![Heated Bed](https://photos.app.goo.gl/n95ULfjbBpt4B3H89)
+![Heated Bed](https://photos.app.goo.gl/s2rKRzRmJm5feDW39)
 
 ## Control System
 1 x 24V 400W power supply  
