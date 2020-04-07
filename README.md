@@ -72,7 +72,7 @@
 ## Drag Chain
 1 x Chain Start  
 20 x Chain Top ![DragChainTop_001_000.png](/FreeCad/DragChain/DragChainTop_001_000.png)
-20 x Chain Bund  
+20 x Chain Bund  ![DragChainBund_22.5](/FreeCad/DragChain/DragChainBund_22.5_000.png)
 1 x Chain Slut  
 
 # Calibrate
