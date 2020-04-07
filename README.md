@@ -60,7 +60,8 @@
 ## Z-Axel
 1 x GearHolder_002 ![GearHolder_002_000](/FreeCad/Z-Axel/Gear+Motor/GearHolder/GearHolder_002_000.png)
 1 x GearHolderBottom ![GearHolderBottom_001_000](FreeCad/Z-Axel/Gear+Motor/GearHolder/GearHolderBottom_001_000.png)
-1 x GearWheel 20 Tand ![GearWheel_20_001](FreeCad/Z-Axel/Gear+Motor/GearWheel_20_001_000.png)  
+1 x GearWheel 20 Tand - **[STL-fil](/FreeCad/Z-Axel/Gear+Motor/GearWheel_20_001.stl)** - **[FreeCad-fil]()** 
+![GearWheel_20_001](FreeCad/Z-Axel/Gear+Motor/GearWheel_20_001_000.png)  
 1 x GearWhell 80 Tand ![GearWheel_80_001](/FreeCad/Z-Axel/Gear+Motor/GearWheel_80_002_000.png)  
 
 2 x Z-Axel-Bearing_020_000 ![Z-Axel-Bearing_020_000](FreeCad/Z-Axel/Z-Axel-Bearing_020/Z-Axel-Bearing_020_000.png)  
@@ -71,8 +72,9 @@
 
 ## Drag Chain
 1 x Chain Start  
-20 x Chain Top ![DragChainTop_001_000.png](/FreeCad/DragChain/DragChainTop_001_000.png)
-20 x Chain Bund [STL-fil](/FreeCad/DragChain/DragChainBund_22.5.stl) [FreeCad-fil](FreeCad/DragChain/DragChainBund_22.5.FCStd)
+20 x Chain Top - **[STL-fil](/FreeCad/DragChain/DragChainTop_22.5.stl)** - **[FreeCad-fil](/FreeCad/DragChain/DragChainTop_22.5.FCStd)** 
+![DragChainTop_001_000.png](/FreeCad/DragChain/DragChainTop_001_000.png)
+20 x Chain Bund - **[STL-fil](/FreeCad/DragChain/DragChainBund_22.5.stl)** - **[FreeCad-fil](FreeCad/DragChain/DragChainBund_22.5.FCStd)**
 ![DragChainBund_22.5](/FreeCad/DragChain/DragChainBund_22.5_000.png) 
 1 x Chain Slut  
 
