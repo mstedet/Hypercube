@@ -59,10 +59,13 @@
 
 ## Z-Axel
 1 x GearHolder_002 ![GearHolder_002_000](/FreeCad/Z-Axel/Gear+Motor/GearHolder/GearHolder_002_000.png)
+
 1 x GearHolderBottom ![GearHolderBottom_001_000](FreeCad/Z-Axel/Gear+Motor/GearHolder/GearHolderBottom_001_000.png)
-1 x GearWheel 20 Tand - **[STL-fil](/FreeCad/Z-Axel/Gear+Motor/GearWheel_20_001.stl)** - **[FreeCad-fil]()** 
+
+1 x GearWheel 20 Tand - **[STL-fil](/FreeCad/Z-Axel/Gear+Motor/GearWheel_20_001.stl)** - **[FreeCad-fil](/FreeCad/Z-Axel/Gear+Motor/GearHolder/GearHolderBottom_20_001.FCStd)** 
 ![GearWheel_20_001](FreeCad/Z-Axel/Gear+Motor/GearWheel_20_001_000.png)  
-1 x GearWhell 80 Tand ![GearWheel_80_001](/FreeCad/Z-Axel/Gear+Motor/GearWheel_80_002_000.png)  
+
+1 x GearWhell 80 Tand ![GearWheel_80_001](/FreeCad/Z-Axel/Gear+Motor/GearWheel_80_001_000.png)  
 
 2 x Z-Axel-Bearing_020_000 ![Z-Axel-Bearing_020_000](FreeCad/Z-Axel/Z-Axel-Bearing_020/Z-Axel-Bearing_020_000.png)  
 
