@@ -44,6 +44,14 @@
 1 x [ESP-01S WIFI Module ESP8266 For SKR](https://www.biqu.equipment/products/esp-01s-wifi-module-esp8266-for-skr-pro)  
 
 # 3D-Printede Dele: 
+## Filament:
+2 x [Spectrum Filaments – PLA – 1.75mm – Deep Black – 1 kg](https://3dstore.dk/filament/spectrum-filaments-pla-1-75mm-deep-black-1-kg/)  
+2 x [Spectrum Filaments – PLA – 1.75mm – Dark Grey – 1 kg](https://3dstore.dk/filament/spectrum-filaments-pla-1-75mm-dark-grey-1-kg/)  
+2 x [Spectrum Filaments – PLA – 1.75mm – Navy Blue – 1 kg](https://3dstore.dk/filament/spectrum-filaments-pla-1-75mm-navy-blue-1-kg/)  
+2 x [Spectrum Filaments – PLA – 1.75mm – Bloody Red – 1 kg](https://3dstore.dk/filament/spectrum-filaments-pla-1-75mm-bloody-red-1-kg/)  
+## PrintaFix:
+3 x [APRINTAPRO PrintaFix Basic 100ml](https://3dstore.dk/tilbehoer/printafix/aprintapro-printafix-basic/)  
+## Filer:
 * [FreeCad (FCStd) filer & STL filer kan hentest her](https://github.com/mstedet/Hypercube/tree/master/FreeCad)  
 ## 3030 Profiler
 4 x EndCap_3030 - **[STL-fil](/FreeCad/3030/EndCap_3030.stl)** - **[FreeCad-fil](/FreeCad/3030/EndCap_3030.FCStd)**
@@ -61,8 +69,9 @@
 1 x X-Axel-Printhead-Base
 
 ## Y-Axel
-2 x Afstandstykke_2mm ![Afstandstykke](FreeCad/Y-Axel/Afstandstykke_2mm/Afstandstykke_2mm_000.png)  
-2 x Y-Axel-Bearing_A  - **[STL-fil](FreeCad/Y-Axel/Y-Axel-Bearing_007/Y-Axel-Bearing_007a.stl)** - **[FreeCad-fil](/FreeCad/Y-Axel/Y-Axel-Bearing_007/Y-Axel-Bearing_007a.FCStd)**
+2 x Afstandstykke_2mm - **[STL-fil](/FreeCad/Y-Axel/Afstandstykke_2mm/Afstandstykke_2mm.stl)** - **[FreeCad-fil](/FreeCad/Y-Axel/Afstandstykke_2mm/Afstandstykke_2mm.FCStd)**
+![Afstandstykke](FreeCad/Y-Axel/Afstandstykke_2mm/Afstandstykke_2mm_000.png)  
+2 x Y-Axel-Bearing_A - **[STL-fil](FreeCad/Y-Axel/Y-Axel-Bearing_007/Y-Axel-Bearing_007a.stl)** - **[FreeCad-fil](/FreeCad/Y-Axel/Y-Axel-Bearing_007/Y-Axel-Bearing_007a.FCStd)**
  ![Y-Axel-Bearing_A](/FreeCad/Y-Axel/Y-Axel-Bearing_007/Y-Axel-Bearing_007a_000.png
  )
 2 x Y-Axel-Bearing_B  - **[STL-fil](FreeCad/Y-Axel/Y-Axel-Bearing_007/Y-Axel-Bearing_007b.stl)** - **[FreeCad-fil](/FreeCad/Y-Axel/Y-Axel-Bearing_007/Y-Axel-Bearing_007b.FCStd)**
@@ -92,6 +101,13 @@
 ![DragChainBund_22.5](/FreeCad/DragChain/DragChainBund_22.5_000.png) 
 1 x Chain Slut  
 
+# Firmware
+* [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
+* [MarlinFirmware/Configurations](https://github.com/MarlinFirmware/Configurations/tree/import-2.0.x/config/examples/Creality)  
+* Video 
+  * [Ender 3 (Pro) Marlin 2 0 Installation Upgrade - Updated Version](https://www.youtube.com/watch?v=RbbzsJBpEhc&t=154s)  
+  * [Easily upgrade the Marlin firmware on your kit 3D printer!](https://www.youtube.com/watch?v=lAKyZd63_ns)
+ 
 # Calibrate
 ## Calibrate the Extruder
 * DrVax
