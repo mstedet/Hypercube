@@ -62,10 +62,11 @@
 
 ## Y-Axel
 2 x Afstandstykke_2mm ![Afstandstykke](FreeCad/Y-Axel/Afstandstykke_2mm/Afstandstykke_2mm_000.png)  
-2 x Y-Axel-Bearing_A  - **[STL-fil](FreeCad/Y-Axel/Y-Axel-Bearing_007/Y-Axel-Bearing_008a.stl)** - **[FreeCad-fil](/FreeCad/Y-Axel/Y-Axel-Bearing_007/Y-Axel-Bearing_008a.FCStd)**
+2 x Y-Axel-Bearing_A  - **[STL-fil](FreeCad/Y-Axel/Y-Axel-Bearing_007/Y-Axel-Bearing_007a.stl)** - **[FreeCad-fil](/FreeCad/Y-Axel/Y-Axel-Bearing_007/Y-Axel-Bearing_007a.FCStd)**
  ![Y-Axel-Bearing_A](/FreeCad/Y-Axel/Y-Axel-Bearing_007/Y-Axel-Bearing_007a_000.png
  )
-2 x Y-Axel-Bearing_B ![Y-Axel-Bearing_B](FreeCad/Y-Axel/Y-Axel-Bearing_007/Y-Axel-Bearing_007b_000.png)
+2 x Y-Axel-Bearing_B  - **[STL-fil](FreeCad/Y-Axel/Y-Axel-Bearing_007/Y-Axel-Bearing_007b.stl)** - **[FreeCad-fil](/FreeCad/Y-Axel/Y-Axel-Bearing_007/Y-Axel-Bearing_007b.FCStd)**
+ ![Y-Axel-Bearing_B](FreeCad/Y-Axel/Y-Axel-Bearing_007/Y-Axel-Bearing_007b_000.png)
 
 ## Z-Axel
 1 x GearHolder_002 ![GearHolder_002_000](/FreeCad/Z-Axel/Gear+Motor/GearHolder/GearHolder_002_000.png)
