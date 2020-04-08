@@ -7,16 +7,16 @@
 ## Fasteners
 
 ## Motors
-5 x NEMA 17 42mm Stepper Motors  
+5 x [NEMA 17 42mm Stepper Motors](https://www.amazon.de/gp/product/B07STSYWY6/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)  
 
 ## Lead Screw M8 
-
+1 x [Leitspindel+CopperMutter+VertikallagerLager+Kupplung (1Set)](https://www.amazon.de/gp/product/B07LDZPSKL/ref=ppx_yo_dt_b_asin_title_o06_s02?ie=UTF8&psc=1)  
 
 ## Pulleys and Belts
-2 x GT2 Timing Pulley (20 teeth) 5mm bore for 6mm belt  
-6 x GT2 Idler Pulley (20 teeth) 3mm bore  
-2 x GT2 Idler Pulley without teeth (20 teeth) 3mm bore  
-5m Polyurethane GT2 6mm belt  
+5m Polyurethane GT2 6mm belt &   
+2 x [GT2 Timing Pulley (20 teeth) 5mm bore for 6mm belt](https://www.amazon.de/gp/product/B06XKVX3FY/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)  
+6 x [GT2 Idler Pulley (20 teeth) 3mm bore](https://www.amazon.de/gp/product/B07K8FNGCZ/ref=ppx_yo_dt_b_asin_title_o06_s01?ie=UTF8&psc=1)  
+2 x [GT2 Idler Pulley without teeth (20 teeth) 3mm bore](https://www.amazon.de/gp/product/B083RCTF7T/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)  
 
 ## Linear Bearings  
 4 x LM12UU 12mm Linear Ball Bearings  
@@ -30,12 +30,13 @@
 1 x Aluplate 430x430x3 mm
 
 ## HotEnd:
-1 x [E3D v6 HotEnd Full Kit - 1.75mm Bowden (24v)](https://filament23d.dk/e3d-v6-hotend-full-kit-1-75mm-bowden-24v-da.html)  
+1 x [E3D v6 HotEnd Full Kit - 1.75mm Bowden (24v)](https://filament23d.dk/e3d-v6-hotend-full-kit-1-75mm-bowden-24v-da.html) - **[Assembly Guid](https://wiki.e3d-online.com/E3D-v6_Assembly)**  
 1 x [24V Blow 50mm](https://filament23d.dk/24v-blow-50mm-da.html)  
-1 x Extruder
+1 x [Extruder](https://www.amazon.de/gp/product/B07TJ8PB7D/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1
+)
 
 ## Control System
-1 x 24V 400W power supply  
+1 x [24V 400W power supply](https://www.amazon.de/gp/product/B01G257UHW/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)  
 1 x [BIGTREETECH-SKR-V1.4](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3/tree/master/BTT%20SKR%20V1.4)  
 1 x [BIGTREETECH-TFT35-V3.0](https://github.com/bigtreetech/BIGTREETECH-TFT35-V3.0)  
 1 x [BIGTREETECH-MINI-UPS-V2.0](https://github.com/bigtreetech/BIGTREETECH-MINI-UPS-V2.0/tree/master/BTT%20UPS%2024V%20V1.0)  
@@ -43,7 +44,7 @@
 1 x [ESP-01S WIFI Module ESP8266 For SKR](https://www.biqu.equipment/products/esp-01s-wifi-module-esp8266-for-skr-pro)  
 
 # 3D-Printede Dele: 
-* [FreeCad & STL filer kan hentest her](https://github.com/mstedet/Hypercube/tree/master/FreeCad)  
+* [FreeCad (FCStd) filer & STL filer kan hentest her](https://github.com/mstedet/Hypercube/tree/master/FreeCad)  
 ## 3030 Profiler
 4 x EndCap_3030 - **[STL-fil](/FreeCad/3030/EndCap_3030.stl)** - **[FreeCad-fil](/FreeCad/3030/EndCap_3030.FCStd)**
  ![EndCap_3030](/FreeCad/3030/EndCap_3030.png)
