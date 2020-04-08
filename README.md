@@ -45,9 +45,12 @@
 # 3D-Printede Dele: 
 * [FreeCad & STL filer kan hentest her](https://github.com/mstedet/Hypercube/tree/master/FreeCad)  
 ## 3030 Profiler
-4 x EndCap_3030 ![EndCap_3030](/FreeCad/3030/EndCap_3030.png)
-4 x FodBund 3030 ![FodBund](/FreeCad/3030/Foot-30a.png)
-4 x FodJustermøtrik ![FodJustermøtrik](/FreeCad/3030/Foot-30b.png)
+4 x EndCap_3030 - **[STL-fil](/FreeCad/3030/EndCap_3030.stl)** - **[FreeCad-fil](/FreeCad/3030/EndCap_3030.FCStd)**
+ ![EndCap_3030](/FreeCad/3030/EndCap_3030.png)
+4 x FodBund 3030 - **[STL-fil](/FreeCad/3030/Foot-30a.stl)** - **[FreeCad-fil](/FreeCad/3030/Foot-30a.FCStd)**
+ ![FodBund](/FreeCad/3030/Foot-30a.png)
+4 x FodJustermøtrik - **[STL-fil](/FreeCad/3030/Foot-30b.stl)** - **[FreeCad-fil](/FreeCad/3030/Foot-30b.FCStd)**
+ ![FodJustermøtrik](/FreeCad/3030/Foot-30b.png)
 
 ## X-Axel
 2 x X-Axel-Battery-Dummy  
