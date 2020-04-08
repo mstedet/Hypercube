@@ -3,6 +3,15 @@
 
 # Matrialer:
 ## 3030 and 2020 extrusion
+15 Meter [Profil 6 30x30 leicht, natur](https://product.item24.de/directlink/de/pro/41906)  
+![Profil 6 30x30 Let](../Hypercube/images/GRA_PRE_0041906__SALL__AINO__V1.jpg)  
+50 x [Notsten 6 St M6](https://www.linearmodul.dk/) ![Notsten 6 St M6](/images/Notsten_6_St_M6.png)
+
+
+## Axeler 
+1 Meter [Aksel ø8  h6 - Hærdet & slebet dia.  8 mm (HL=6m)](https://www.linearmodul.dk/)  
+1 Meter [Aksel ø10 h6 - hærdet & slebet dia. 10 mm (HL=6m)](https://www.linearmodul.dk/)  
+3 Meter [Aksel ø12 h6 - hærdet & slebet dia. 12 mm (HL=6m)](https://www.linearmodul.dk/)  
 
 ## Fasteners
 
