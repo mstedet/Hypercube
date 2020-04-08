@@ -43,7 +43,12 @@
 1 x [ESP-01S WIFI Module ESP8266 For SKR](https://www.biqu.equipment/products/esp-01s-wifi-module-esp8266-for-skr-pro)  
 
 # 3D-Printede Dele: 
-* [FreeCad & STL filer kan hentest her](https://github.com/mstedet/Hypercube/tree/master/FreeCad)
+* [FreeCad & STL filer kan hentest her](https://github.com/mstedet/Hypercube/tree/master/FreeCad)  
+## 3030 Profiler
+4 x EndCap_3030 ![EndCap_3030](/FreeCad/3030/EndCap_3030.png)
+4 x FodBund 3030 ![FodBund](/FreeCad/3030/Foot-30a.png)
+4 x FodJustermøtrik ![FodJustermøtrik](/FreeCad/3030/Foot-30b.png)
+
 ## X-Axel
 2 x X-Axel-Battery-Dummy  
 1 x X-Axel-Bearing_A ![X-Axel-Bearing_A](FreeCad/X-Axel/X-Axel-Bearing_001a_000.png)  
