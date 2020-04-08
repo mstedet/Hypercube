@@ -4,7 +4,8 @@
 # Matrialer:
 ## 3030 and 2020 extrusion
 15 Meter [Profil 6 30x30 leicht, natur](https://product.item24.de/directlink/de/pro/41906)  
-![Profil 6 30x30 Let](https://product.item24.de/motion_data/catalog/images/1024/GRA_PRE_0041906__SALL__AINO__V1.jpg)  
+<img src="https://product.item24.de/motion_data/catalog/images/1024/GRA_PRE_0041906__SALL__AINO__V1.jpg" height="150" width="150" alt="Profil 6 30x30 Let"> 
+
 50 x [Notsten 6 St M6](https://www.linearmodul.dk/)  
 ![Notsten 6 St M6](/images/Notsten_6_St_M6.png)
 
