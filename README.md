@@ -4,18 +4,16 @@
 # Matrialer:
 ## 3030 and 2020 extrusion
 15 Meter [Profil 6 30x30 leicht, natur](https://product.item24.de/directlink/de/pro/41906)  
-<img src="https://product.item24.de/motion_data/catalog/images/1024/GRA_PRE_0041906__SALL__AINO__V1.jpg" height="150" width="150" alt="Profil 6 30x30 Let"> 
+<img src="https://product.item24.de/motion_data/catalog/images/1024/GRA_PRE_0041906__SALL__AINO__V1.jpg" height="150" width="150" alt="Profil 6 30x30 Let"> - 
+<img src="https://product.item24.de/motion_data/catalog/images/1024/PIC_PRD_VBT_050-item-Neuheiten8-11-157-014__SALL__AINO__V1.jpg"  height="150" width="150" alt="Profil 6 30x30 Let kobling">  
 
-50 x [Notsten 6 St M6](https://www.linearmodul.dk/)  
-![Notsten 6 St M6](/images/Notsten_6_St_M6.png)
+100 x [Notsten 6 St M6](https://www.linearmodul.dk/) ![Notsten 6 St M6](/images/Notsten_6_St_M6.png)
 
 
 ## Axeler 
 1 Meter [Aksel ø8  h6 - Hærdet & slebet dia.  8 mm (HL=6m)](https://www.linearmodul.dk/)  
 1 Meter [Aksel ø10 h6 - hærdet & slebet dia. 10 mm (HL=6m)](https://www.linearmodul.dk/)  
 3 Meter [Aksel ø12 h6 - hærdet & slebet dia. 12 mm (HL=6m)](https://www.linearmodul.dk/)  
-
-## Fasteners
 
 ## Motors
 5 x [NEMA 17 42mm Stepper Motors](https://www.amazon.de/gp/product/B07STSYWY6/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)  
