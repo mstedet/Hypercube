@@ -2,7 +2,7 @@
 ## Baseret på Scott Alford's [HyperCube Evolution](https://www.thingiverse.com/thing:2254103)  
 
 # Matrialer:
-## 3030 and 2020 extrusion
+## [Item Aluminiumsprofiler 3030 and 2020 extrusion](https://www.linearmodul.dk/sida5_dk.html)
 15 Meter [Profil 6 30x30 leicht, natur](https://product.item24.de/directlink/de/pro/41906)  
 <img src="https://product.item24.de/motion_data/catalog/images/1024/GRA_PRE_0041906__SALL__AINO__V1.jpg" height="150" width="150" alt="Profil 6 30x30 Let"> - 
 <img src="https://product.item24.de/motion_data/catalog/images/1024/PIC_PRD_VBT_050-item-Neuheiten8-11-157-014__SALL__AINO__V1.jpg"  height="150" width="150" alt="Profil 6 30x30 Let kobling">  
