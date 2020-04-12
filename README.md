@@ -127,4 +127,8 @@
 ## Printing Speed
 * Thomas Sanladerer
   * [3D printing guides - Tuning speeds](https://www.youtube.com/watch?v=7HsIZuj9vOs)  
+
+# Customize Marlin LCD
+  * [Thinkyhead Software Video](https://www.youtube.com/watch?v=3fGHgzZqaGs)
+  * [Marlin Bitmap Converter](https://marlinfw.org/tools/u8glib/converter.html)
   * 
