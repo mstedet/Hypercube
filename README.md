@@ -127,8 +127,12 @@
 ## Printing Speed
 * Thomas Sanladerer
   * [3D printing guides - Tuning speeds](https://www.youtube.com/watch?v=7HsIZuj9vOs)  
+## Using Marlin's PID autotune
+* Thomas Sanladerer
+  * [3D printing guides - Using Marlin's PID autotune](https://www.youtube.com/watch?v=APzJfYAgFkQ)
 
 # Customize Marlin LCD
   * [Thinkyhead Software Video](https://www.youtube.com/watch?v=3fGHgzZqaGs)
   * [Marlin Bitmap Converter](https://marlinfw.org/tools/u8glib/converter.html)
-  * 
+
+# 
