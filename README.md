@@ -96,7 +96,7 @@
 
 1 x GearWhell 80 Tand ![GearWheel_80_001](/FreeCad/Z-Axel/Gear+Motor/GearWheel_80_001_000.png)  
 
-2 x Z-Axel-Bearing_020_000 ![Z-Axel-Bearing_020_000](FreeCad/Z-Axel/Z-Axel-Bearing_020/Z-Axel-Bearing_020_000.png)  
+2 x Z-Axel-Bearing_32a ![Z-Axel-Bearing_32a_000]()  
 
 2 x Z_Axis_Linear_Rail_Bracket_0300 ![Z_Axis_Linear_Rail_Bracket_0300](FreeCad/Z-Axel/Z_Axis_Linear_Rail_Bracket/Z_Axis_Linear_Rail_Bracket_0300.png)  
 
