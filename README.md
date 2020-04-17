@@ -7,19 +7,27 @@
 <img src="https://product.item24.de/motion_data/catalog/images/1024/GRA_PRE_0041906__SALL__AINO__V1.jpg" height="150" width="150" alt="Profil 6 30x30 Let"> - 
 <img src="https://product.item24.de/motion_data/catalog/images/1024/PIC_PRD_VBT_050-item-Neuheiten8-11-157-014__SALL__AINO__V1.jpg"  height="150" width="150" alt="Profil 6 30x30 Let kobling">  
 
-100 x [Notsten 6 St M6](https://www.linearmodul.dk/) ![Notsten 6 St M6](/images/Notsten_6_St_M6.png)
+150 x [Notsten 6 St M6](https://www.linearmodul.dk/) ![Notsten 6 St M6](/images/Notsten_6_St_M6.png)
 
 
 ## Axeler 
 1 Meter [Aksel ø8  h6 - Hærdet & slebet dia.  8 mm (HL=6m)](https://www.linearmodul.dk/)  
 1 Meter [Aksel ø10 h6 - hærdet & slebet dia. 10 mm (HL=6m)](https://www.linearmodul.dk/)  
-3 Meter [Aksel ø12 h6 - hærdet & slebet dia. 12 mm (HL=6m)](https://www.linearmodul.dk/)  
+4 Meter [Aksel ø12 h6 - hærdet & slebet dia. 12 mm (HL=6m)](https://www.linearmodul.dk/)  
 
 ## Motors
 5 x [NEMA 17 42mm Stepper Motors](https://www.amazon.de/gp/product/B07STSYWY6/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)  
 
 ## Lead Screw M8 
-1 x [Leitspindel+CopperMutter+VertikallagerLager+Kupplung (1Set)](https://www.amazon.de/gp/product/B07LDZPSKL/ref=ppx_yo_dt_b_asin_title_o06_s02?ie=UTF8&psc=1)  
+2 x [Leitspindel+CopperMutter+VertikallagerLager+Kupplung (1Set)](https://www.amazon.de/gp/product/B07LDZPSKL/ref=ppx_yo_dt_b_asin_title_o06_s02?ie=UTF8&psc=1)  
+[her er andre modeller fra aliexpress.com](https://www.aliexpress.com/item/32507277503.html?spm=a2g0o.cart.0.0.331e3c00jh9G45&mp=1) 
+  
+eller   
+
+2 x [CNC 3D Printer THSL-300-8D Trapezoidal Rod T8 Lead Screw Thread 8mm Lead 1mm Length 600mm with Brass Nut](https://www.aliexpress.com/item/32507277503.html?spm=a2g0o.cart.0.0.590f3c00qjklE0&mp=1)  
+4 x [KP08 Bearing Shaft Support Spherical Roller Zinc Alloy Mounted Bearings Pillow Block Housing](https://www.aliexpress.com/item/32571310602.html?spm=a2g0o.cart.0.0.590f3c00qjklE0&mp=1)  
+![](/images/KP0xx.jpg)
+
 
 ## Pulleys and Belts
 5m Polyurethane GT2 6mm belt &   
@@ -28,7 +36,7 @@
 2 x [GT2 Idler Pulley without teeth (20 teeth) 3mm bore](https://www.amazon.de/gp/product/B083RCTF7T/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)  
 
 ## Linear Bearings  
-4 x LM12UU 12mm Linear Ball Bearings  
+8 x LM12UU 12mm Linear Ball Bearings  eller [Linear Ball Bearings LM12LUU 12 Part Bush Bushing 3D Printers Parts Aluminum Accessories](https://www.aliexpress.com/item/4000586376717.html?spm=a2g0o.productlist.0.0.5fb74450LOA5DN&algo_pvid=497252ef-cf79-4313-bd97-9c2e9ce2ef34&algo_expid=497252ef-cf79-4313-bd97-9c2e9ce2ef34-0&btsid=0be3743615871218685115454e75b1&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)  
 4 x LM10UU 10mm Linear Ball Bearings or 2 x LM10LUU 10mm Long Linear Ball Bearings  
 4 x LM8UU 8mm Linear Ball Bearings  
 
