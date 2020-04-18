@@ -4,12 +4,11 @@
 # Matrialer:
 ## [Item Aluminiumsprofiler 3030 and 2020 extrusion](https://www.linearmodul.dk/sida5_dk.html)
 15 Meter [Profil 6 30x30 leicht, natur](https://product.item24.de/directlink/de/pro/41906)  
-<img src="https://product.item24.de/motion_data/catalog/images/1024/GRA_PRE_0041906__SALL__AINO__V1.jpg" height="150" width="150" alt="Profil 6 30x30 Let"> - 
-<img src="https://product.item24.de/motion_data/catalog/images/1024/PIC_PRD_VBT_050-item-Neuheiten8-11-157-014__SALL__AINO__V1.jpg"  height="150" width="150" alt="Profil 6 30x30 Let kobling">  
+<img src="https://product.item24.de/motion_data/catalog/images/1024/GRA_PRE_0041906__SALL__AINO__V1.jpg" height="150" width="150" alt="Profil 6 30x30 Let">
 
 150 x [Notsten 6 St M6](https://www.linearmodul.dk/) ![Notsten 6 St M6](/images/Notsten_6_St_M6.png)  
 100 x [Standard-Fastening Set 6 E, bright zinc-plated](https://product.item24.de/produkte/produktkatalog/produktdetails/products/standard-verbindungssaetze-1001012015/standard-verbindungssatz-6-e-verzinkt-64865/)   
-<img src="https://product.item24.de/motion_data/catalog/images/1024/PIC_PRD_PRF_Standard-Verbindungssatz__SALL__AINO__V1.jpg" height="150"  alt="">
+<img src="https://product.item24.de/motion_data/catalog/images/1024/PIC_PRD_PRF_Standard-Verbindungssatz__SALL__AINO__V1.jpg" height="150"  alt=""> - <img src="https://product.item24.de/motion_data/catalog/images/1024/PIC_PRD_VBT_050-item-Neuheiten8-11-157-014__SALL__AINO__V1.jpg"  height="150" width="150" alt="Profil 6 30x30 Let kobling">  
 
 ## Axeler 
 1 Meter [Aksel ø8  h6 - Hærdet & slebet dia.  8 mm (HL=6m)](https://www.linearmodul.dk/)  
