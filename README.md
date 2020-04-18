@@ -11,6 +11,12 @@
 
 100 x [Standard-Fastening Set 6 E, bright zinc-plated](https://product.item24.de/produkte/produktkatalog/produktdetails/products/standard-verbindungssaetze-1001012015/standard-verbindungssatz-6-e-verzinkt-64865/)   
 <img src="https://product.item24.de/motion_data/catalog/images/1024/PIC_PRD_PRF_Standard-Verbindungssatz__SALL__AINO__V1.jpg" height="150"  alt=""> - <img src="https://product.item24.de/motion_data/catalog/images/1024/PIC_PRD_VBT_050-item-Neuheiten8-11-157-014__SALL__AINO__V1.jpg"  height="150" width="150" alt="Profil 6 30x30 Let kobling">  
+### item Konstruktionsprofile 5
+[3 meter Profil 5 20x20, natur 0.0.370.03](https://product.item24.de/produkte/produktkatalog/produktdetails/products/konstruktionsprofile-5-1001042368/profil-5-20x20-natur-37003/)  
+
+<img src="https://product.item24.de/motion_data/catalog/images/1024/PIC_PRD_PRF_36ab3__SALL__AINO__V2.jpg" width="150" alt="">
+
+
 
 ## Bolte 
 * 500 stk M6x12 DIN EN ISO 7380-1, Button head screw, Stainless steel A2-70  
