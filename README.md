@@ -94,20 +94,34 @@ eller
  ![Y-Axel-Bearing_B](FreeCad/Y-Axel/Y-Axel-Bearing_007/Y-Axel-Bearing_007b_000.png)
 
 ## Z-Axel
-1 x GearHolder_002 ![GearHolder_002_000](/FreeCad/Z-Axel/Gear+Motor/GearHolder/GearHolder_002_000.png)
+* 4 x Z-Axel-Bearing_1001a  
+  * 2 x venstre  
+  * 2 x højre (venstre spejlet i cura)  
 
-1 x GearHolderBottom ![GearHolderBottom_001_000](FreeCad/Z-Axel/Gear+Motor/GearHolder/GearHolderBottom_001_000.png)
+![Z-Axel-Bearing_1001a](/FreeCad/Z-Axel/Z-Bearing/Z-Axel-Bearing_1001a.png)  
 
-1 x GearWheel 20 Tand - **[STL-fil](/FreeCad/Z-Axel/Gear+Motor/GearWheel_20_001.stl)** - **[FreeCad-fil](/FreeCad/Z-Axel/Gear+Motor/GearHolder/GearHolderBottom_20_001.FCStd)** 
-![GearWheel_20_001](FreeCad/Z-Axel/Gear+Motor/GearWheel_20_001_000.png)  
+* 4 x Z-Axel-Bearing_1001b  
 
-1 x GearWhell 80 Tand ![GearWheel_80_001](/FreeCad/Z-Axel/Gear+Motor/GearWheel_80_001_000.png)  
+![Z-Axel-Bearing_1001b](/FreeCad/Z-Axel/Z-Bearing/Z-Axel-Bearing_1001b.png)  
 
-2 x Z-Axel-Bearing_32a ![Z-Axel-Bearing_32a_000]()  
+* 8 x Z-Bracket_1001  
+  * 4 x venste  
+  * 4 x højre (venstre spejlet i cura)  
 
-2 x Z_Axis_Linear_Rail_Bracket_0300 ![Z_Axis_Linear_Rail_Bracket_0300](FreeCad/Z-Axel/Z_Axis_Linear_Rail_Bracket/Z_Axis_Linear_Rail_Bracket_0300.png)  
+![Z-Bracket_1001](/FreeCad/Z-Axel/Z-Bracket/Z-Bracket_1001.png)  
 
-1 x Z_Nut_Braket_1.1
+* 2 x Z-KP08_Holder_1010  
+
+![Z-KP08_Holder_1010](/FreeCad/Z-Axel/Z-KP08_Holder/Z-KP08_Holder_1010.png)  
+
+* 2 x Z-Motor_Holder
+
+![Z-Motor_Holder](/FreeCad/Z-Axel/Z-Motor/Z-Motor_Holder.png)  
+
+* 2 x trapezewagon-1001  
+
+![trapezewagon-1001](FreeCad/Z-Axel/Z-Trapezewagon/trapezewagon-1001.png)  
+
 
 ## Drag Chain
 1 x Chain Start  
