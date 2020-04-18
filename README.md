@@ -7,8 +7,25 @@
 <img src="https://product.item24.de/motion_data/catalog/images/1024/GRA_PRE_0041906__SALL__AINO__V1.jpg" height="150" width="150" alt="Profil 6 30x30 Let">
 
 150 x [Notsten 6 St M6](https://www.linearmodul.dk/) ![Notsten 6 St M6](/images/Notsten_6_St_M6.png)  
+50 x  Notsten Not 5, M5 svingbar m.skaft St.FZB  
+
 100 x [Standard-Fastening Set 6 E, bright zinc-plated](https://product.item24.de/produkte/produktkatalog/produktdetails/products/standard-verbindungssaetze-1001012015/standard-verbindungssatz-6-e-verzinkt-64865/)   
 <img src="https://product.item24.de/motion_data/catalog/images/1024/PIC_PRD_PRF_Standard-Verbindungssatz__SALL__AINO__V1.jpg" height="150"  alt=""> - <img src="https://product.item24.de/motion_data/catalog/images/1024/PIC_PRD_VBT_050-item-Neuheiten8-11-157-014__SALL__AINO__V1.jpg"  height="150" width="150" alt="Profil 6 30x30 Let kobling">  
+
+## Bolte 
+* 500 stk M6x12 DIN EN ISO 7380-1, Button head screw, Stainless steel A2-70  
+
+<img src="https://keller-kalmbach.de/medias/ISO-7380-1-Flachkopfschraube-Edelstahl-A2-70.Vollbild.png-498Wx373H?context=bWFzdGVyfGltYWdlc3w2OTgyMHxpbWFnZS9wbmd8aW1hZ2VzL2hkZS9oMWYvODg2NjQ4ODA1Nzg4Ni5wbmd8NmI4NDE2YWE4YTc2NGYzNTFhZDZlZDk0ODVjZGU4YTFhYmUwOTQwZjI1MmRkNDdmOWY3MGM3MTVjN2EwYTZiZg" height="150"  alt="">
+
+* 500 stk M5x10 DIN EN ISO 7380-1, Button head screw, Galvanized 10.9 steel  
+ 
+<img src="https://keller-kalmbach.de/medias/ISO-7380-1-Flachkopfschraube-Stahl-10-9-verzinkt.Vollbild.png-498Wx373H?context=bWFzdGVyfGltYWdlc3w3NDA3M3xpbWFnZS9wbmd8aW1hZ2VzL2hlNy9oOWQvODg2NjQ5MDc0NDg2Mi5wbmd8NmI0MzUzNDljM2I5NmZjYTI2MDdkMGZlYjQ0OWU0NGI3YWQxMTBiMjZiYjU5MTNkMWQxMGQ2NWE4YWNmYTFkMw" height="150"  alt="">  
+
+* 500 stk M5x10 DIN 912, ISO 4762 ZYLINDERSCHRAUBE MIT INNENSECHSKANT UND UNTERKOPFVERZAHNUNG M5 x 10
+
+<img src="https://media.wuerth.com/source/eshop/stmedia/wuerth/images/std.lang.all/resolutions/category/576px/54627.jpg" height="150"  alt="">
+
+* 50 stk M3 x 20 
 
 ## Axeler 
 1 Meter [Aksel ø8  h6 - Hærdet & slebet dia.  8 mm (HL=6m)](https://www.linearmodul.dk/)  
@@ -94,15 +111,15 @@ eller
  ![Y-Axel-Bearing_B](FreeCad/Y-Axel/Y-Axel-Bearing_007/Y-Axel-Bearing_007b_000.png)
 
 ## Z-Axel
-* 4 x Z-Axel-Bearing_1001a  
+* 4 x Z-Axel-Bearing_1010a  
   * 2 x venstre  
   * 2 x højre (venstre spejlet i cura)  
 
-![Z-Axel-Bearing_1001a](/FreeCad/Z-Axel/Z-Bearing/Z-Axel-Bearing_1001a.png)  
+![Z-Axel-Bearing_1010a](/FreeCad/Z-Axel/Z-Bearing/Z-Axel-Bearing_1010a.png)  
 
 * 4 x Z-Axel-Bearing_1001b  
 
-![Z-Axel-Bearing_1001b](/FreeCad/Z-Axel/Z-Bearing/Z-Axel-Bearing_1001b.png)  
+![Z-Axel-Bearing_1010b](/FreeCad/Z-Axel/Z-Bearing/Z-Axel-Bearing_1010b.png)  
 
 * 8 x Z-Bracket_1001  
   * 4 x venste  
