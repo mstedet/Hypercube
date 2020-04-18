@@ -133,7 +133,7 @@ eller
 
 * 2 x Z-Motor_Holder
 
-![Z-Motor_Holder](/FreeCad/Z-Axel/Z-Motor/Z-Motor_Holder.png)  
+![Z-Motor_Holder](/FreeCad/Z-Axel/Z-Motor_Holder/Z-Motor_Holder.png)  
 
 * 2 x trapezewagon-1001  
 
