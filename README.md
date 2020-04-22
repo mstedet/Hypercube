@@ -195,3 +195,6 @@ eller
   * [BigTreeTech SKR v1.4 Mainboard - Full Install Part 1 - 2209 Drivers - Chris's Basement](https://www.youtube.com/watch?v=oHMZ0ocTYvM)
   * [BigTreeTech SKR v1.4 Mainboard - Full Install Part 2 - 2209 Drivers - Chris's Basement](https://www.youtube.com/watch?v=j2FL_mY_LsY&t=1219s)
   * [VSCODE - Edit Marlin Firmware - How To - Chris's Basement](https://www.youtube.com/watch?v=W6zYvRgGr3Q)
+* Teaching Tech
+  * [Bigtreetech SKR V1.4 (Turbo) comprehensive guide](https://www.youtube.com/watch?v=-Gdk0wHg51w)
+  * [BTT TFT35 dual mode touch screen guide](https://www.youtube.com/watch?v=l1Putn10_Ek)
