@@ -4,7 +4,9 @@
 # Matrialer:
 ## [Item Aluminiumsprofiler 3030 and 2020 extrusion](https://www.linearmodul.dk/sida5_dk.html)
 15 Meter [Profil 6 30x30 leicht, natur](https://product.item24.de/directlink/de/pro/41906)  
-<img src="https://product.item24.de/motion_data/catalog/images/1024/GRA_PRE_0041906__SALL__AINO__V1.jpg" height="150" width="150" alt="Profil 6 30x30 Let">
+<img src="https://product.item24.de/motion_data/catalog/images/1024/GRA_PRE_0041906__SALL__AINO__V1.jpg" height="150" width="150" alt="Profil 6 30x30 Let">  
+  * 4 stk 1500mm  
+  * 10 stk 490mm  
 
 150 x [Notsten 6 St M6](https://www.linearmodul.dk/) ![Notsten 6 St M6](/images/Notsten_6_St_M6.png)  
 50 x  Notsten Not 5, M5 svingbar m.skaft St.FZB  
@@ -13,25 +15,34 @@
 <img src="https://product.item24.de/motion_data/catalog/images/1024/PIC_PRD_PRF_Standard-Verbindungssatz__SALL__AINO__V1.jpg" height="150"  alt=""> - <img src="https://product.item24.de/motion_data/catalog/images/1024/PIC_PRD_VBT_050-item-Neuheiten8-11-157-014__SALL__AINO__V1.jpg"  height="150" width="150" alt="Profil 6 30x30 Let kobling">  
 ### item Konstruktionsprofile 5
 [3 meter Profil 5 20x20, natur 0.0.370.03](https://product.item24.de/produkte/produktkatalog/produktdetails/products/konstruktionsprofile-5-1001042368/profil-5-20x20-natur-37003/)  
-
-<img src="https://product.item24.de/motion_data/catalog/images/1024/PIC_PRD_PRF_36ab3__SALL__AINO__V2.jpg" width="150" alt="">
-
-
+<img src="https://product.item24.de/motion_data/catalog/images/1024/PIC_PRD_PRF_36ab3__SALL__AINO__V2.jpg" width="150" alt="">  
+  * 2 stk 400mm  
+  * 2 stk 440mm
 
 ## Bolte 
-* 500 stk M6x12 DIN EN ISO 7380-1, Button head screw, Stainless steel A2-70  
+###  Button head screw, DIN EN ISO 7380-1  
+<img src="https://keller-kalmbach.de/medias/ISO-7380-1-Flachkopfschraube-Edelstahl-A2-70.Vollbild.png-498Wx373H?context=bWFzdGVyfGltYWdlc3w2OTgyMHxpbWFnZS9wbmd8aW1hZ2VzL2hkZS9oMWYvODg2NjQ4ODA1Nzg4Ni5wbmd8NmI4NDE2YWE4YTc2NGYzNTFhZDZlZDk0ODVjZGU4YTFhYmUwOTQwZjI1MmRkNDdmOWY3MGM3MTVjN2EwYTZiZg" height="150"  alt="">   
 
-<img src="https://keller-kalmbach.de/medias/ISO-7380-1-Flachkopfschraube-Edelstahl-A2-70.Vollbild.png-498Wx373H?context=bWFzdGVyfGltYWdlc3w2OTgyMHxpbWFnZS9wbmd8aW1hZ2VzL2hkZS9oMWYvODg2NjQ4ODA1Nzg4Ni5wbmd8NmI4NDE2YWE4YTc2NGYzNTFhZDZlZDk0ODVjZGU4YTFhYmUwOTQwZjI1MmRkNDdmOWY3MGM3MTVjN2EwYTZiZg" height="150"  alt="">
+#### M6
+500 stk M6x12   
 
-* 500 stk M5x10 DIN EN ISO 7380-1, Button head screw, Galvanized 10.9 steel  
- 
-<img src="https://keller-kalmbach.de/medias/ISO-7380-1-Flachkopfschraube-Stahl-10-9-verzinkt.Vollbild.png-498Wx373H?context=bWFzdGVyfGltYWdlc3w3NDA3M3xpbWFnZS9wbmd8aW1hZ2VzL2hlNy9oOWQvODg2NjQ5MDc0NDg2Mi5wbmd8NmI0MzUzNDljM2I5NmZjYTI2MDdkMGZlYjQ0OWU0NGI3YWQxMTBiMjZiYjU5MTNkMWQxMGQ2NWE4YWNmYTFkMw" height="150"  alt="">  
+### DIN 912 ISO 4762 - Hexagon socket Head Cap Screws
+![DIN 912](/images/din912.png) 
+#### M5
+8 stk M5x10, for Trapezewagon  
+12 stk M5x10,  for Z-Axel Bearing  
+#### M3
+8 stk M3 x 10mm, for Z-Motor_Holder  
+8 stk M3 x 12mm, for Trapezewagon  
+24 stk M3 x 25mm, for Z-Axel Bearing  
+8 stk M3 x 25mm, for Z-Axel Bracket
 
-* 500 stk M5x10 DIN 912, ISO 4762 ZYLINDERSCHRAUBE MIT INNENSECHSKANT UND UNTERKOPFVERZAHNUNG M5 x 10
-
-<img src="https://media.wuerth.com/source/eshop/stmedia/wuerth/images/std.lang.all/resolutions/category/576px/54627.jpg" height="150"  alt="">
-
-* 50 stk M3 x 20 
+### DIN 965, SKRUE MED UNDERSÆNKET HOVED MED H-KRYDSKÆRV  
+![DIN965](/images/DIN965.png)
+#### M4
+4 stk M4 x 50mm, for heatbed leveling 
+## Møtriker
+48 stk M3
 
 ## Axeler 
 1 Meter [Aksel ø8  h6 - Hærdet & slebet dia.  8 mm (HL=6m)](https://www.linearmodul.dk/)  
@@ -40,6 +51,7 @@
 
 ## Motors
 5 x [NEMA 17 42mm Stepper Motors](https://www.amazon.de/gp/product/B07STSYWY6/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)  
+![nema17](images/Nema17.png)
 
 ## Lead Screw M8 
 2 x [Leitspindel+CopperMutter+VertikallagerLager+Kupplung (1Set)](https://www.amazon.de/gp/product/B07LDZPSKL/ref=ppx_yo_dt_b_asin_title_o06_s02?ie=UTF8&psc=1)  
@@ -101,7 +113,6 @@ eller
  ![FodJustermøtrik](/FreeCad/3030/Foot-30b.png)
 
 ## X-Axel
-2 x X-Axel-Battery-Dummy  
 1 x X-Axel-Bearing_A ![X-Axel-Bearing_A](FreeCad/X-Axel/X-Axel-Bearing_001a_000.png)  
 1 x X-Axel-Bearing_B ![X-Axel-Bearing_B](FreeCad/X-Axel/X-Axel-Bearing_001b_000.png)  
 2 x X-Axel-Belt-Tension  
@@ -117,31 +128,31 @@ eller
  ![Y-Axel-Bearing_B](FreeCad/Y-Axel/Y-Axel-Bearing_007/Y-Axel-Bearing_007b_000.png)
 
 ## Z-Axel
-* 4 x Z-Axel-Bearing_1010a  
+* 4 x Z-Axel-Bearing part a  
   * 2 x venstre  
   * 2 x højre (venstre spejlet i cura)  
 
-![Z-Axel-Bearing_1010a](/FreeCad/Z-Axel/Z-Bearing/Z-Axel-Bearing_1010a.png)  
+![Z-Axel-Bearing_1011a](/FreeCad/Z-Axel/Z-Bearing/Z-Axel-Bearing_1011a.png)  
 
-* 4 x Z-Axel-Bearing_1001b  
+* 4 x Z-Axel-Bearing part b  
 
-![Z-Axel-Bearing_1010b](/FreeCad/Z-Axel/Z-Bearing/Z-Axel-Bearing_1010b.png)  
+![Z-Axel-Bearing_1011b](/FreeCad/Z-Axel/Z-Bearing/Z-Axel-Bearing_1011b.png)  
 
-* 8 x Z-Bracket_1001  
+* 8 x Z-Bracket  
   * 4 x venste  
   * 4 x højre (venstre spejlet i cura)  
 
-![Z-Bracket_1001](/FreeCad/Z-Axel/Z-Bracket/Z-Bracket_1001.png)  
+![Z-Bracket_1002](/FreeCad/Z-Axel/Z-Bracket/Z-Bracket_1002.png)  
 
-* 2 x Z-KP08_Holder_1010  
+* 2 x Z-KP08_Holder  
 
 ![Z-KP08_Holder_1010](/FreeCad/Z-Axel/Z-KP08_Holder/Z-KP08_Holder_1010.png)  
 
-* 2 x Z-Motor_Holder
+* 2 x Z-Motor_Holder  
 
 ![Z-Motor_Holder](/FreeCad/Z-Axel/Z-Motor_Holder/Z-Motor_Holder.png)  
 
-* 2 x trapezewagon-1001  
+* 2 x Trapezewagon  
 
 ![trapezewagon-1001](FreeCad/Z-Axel/Z-Trapezewagon/trapezewagon-1001.png)  
 
@@ -179,4 +190,8 @@ eller
   * [Thinkyhead Software Video](https://www.youtube.com/watch?v=3fGHgzZqaGs)
   * [Marlin Bitmap Converter](https://marlinfw.org/tools/u8glib/converter.html)
 
-# 
+# Configuration af BTT SKR v1.4 Turbo
+* Chris Riley
+  * [BigTreeTech SKR v1.4 Mainboard - Full Install Part 1 - 2209 Drivers - Chris's Basement](https://www.youtube.com/watch?v=oHMZ0ocTYvM)
+  * [BigTreeTech SKR v1.4 Mainboard - Full Install Part 2 - 2209 Drivers - Chris's Basement](https://www.youtube.com/watch?v=j2FL_mY_LsY&t=1219s)
+  * [VSCODE - Edit Marlin Firmware - How To - Chris's Basement](https://www.youtube.com/watch?v=W6zYvRgGr3Q)
