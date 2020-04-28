@@ -84,7 +84,8 @@ eller
 1 x [E3D v6 HotEnd Full Kit - 1.75mm Bowden (24v)](https://filament23d.dk/e3d-v6-hotend-full-kit-1-75mm-bowden-24v-da.html) - **[Assembly Guid](https://wiki.e3d-online.com/E3D-v6_Assembly)**  
 1 x [24V Blow 50mm](https://filament23d.dk/24v-blow-50mm-da.html)  
 1 x [Extruder](https://www.amazon.de/gp/product/B07TJ8PB7D/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1
-)
+)  
+10 stk [POWER MAGNET, SKIVE 12X6 MM](https://www.magnetz.dk/power-magnet-skive-12x6-mm)
 
 ## Control System
 1 x [24V 400W power supply](https://www.amazon.de/gp/product/B01G257UHW/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)  
@@ -198,3 +199,4 @@ eller
 * Teaching Tech
   * [Bigtreetech SKR V1.4 (Turbo) comprehensive guide](https://www.youtube.com/watch?v=-Gdk0wHg51w)
   * [BTT TFT35 dual mode touch screen guide](https://www.youtube.com/watch?v=l1Putn10_Ek)
+  * [Add wifi to your Bigtreetech mainboard/touchscreen - ESP-01S guide](https://www.youtube.com/watch?v=AGTF-JEUHNA)
