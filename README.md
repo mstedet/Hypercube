@@ -75,15 +75,21 @@ eller
 4 x LM8UU 8mm Linear Ball Bearings  
 
 ## Heated Bed components
-1 x [Print Bed Rubber Heater 408 x 408 mm](https://3dstore.dk/tilbehoer/reservedele/creality-3d/cr10s/print-bed-rubber-heater-408-x-408-mm/) 
+1 x [Print Bed Rubber Heater 408 x 408 mm](https://3dstore.dk/tilbehoer/reservedele/creality-3d/cr10s/print-bed-rubber-heater-408-x-408-mm/)  
 ![Heated Bed](/images/20200405_093641.jpg)  
-1 x [PrimaCreator FlexPlate PEI 410 x 410 mm](https://3dstore.dk/tilbehoer/print-surface/primacreator-flexplate-pei-410-x-410-mm/)
-1 x Aluplate 430x430x3 mm
+1 x [PrimaCreator FlexPlate PEI 410 x 410 mm](https://3dstore.dk/tilbehoer/print-surface/primacreator-flexplate-pei-410-x-410-mm/)  
+1 x Aluplate 430x430x3 mm  
+1 x Flex pe coated plade - MGLo63.00.15 P1908084 
+10 x [Type A - Hot bed platform leveling spring length 25mm outer diameter 10mm ID 5mm ](https://www.aliexpress.com/item/33001295923.html?spm=a2g0s.9042311.0.0.26194c4dYd3kvQ)
+![Fjedr-Type-A](/images/Fjeder-Type-A.png)
 
 ## HotEnd:
 1 x [E3D v6 HotEnd Full Kit - 1.75mm Bowden (24v)](https://filament23d.dk/e3d-v6-hotend-full-kit-1-75mm-bowden-24v-da.html) - **[Assembly Guid](https://wiki.e3d-online.com/E3D-v6_Assembly)**  
 1 x [24V Blow 50mm](https://filament23d.dk/24v-blow-50mm-da.html)  
-1 x [Extruder](https://www.amazon.de/gp/product/B07TJ8PB7D/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1
+1 x [Extruder](https://www.amazon.de/gp/product/B07TJ8PB7D/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1  eller 
+1 x [Aluminum Upgrade Dual Gear Mk8 Extruder for Extruder CR10 CR-10S PRO RepRap 1.75mm 3D Parts Drive Feed double pulley](https://www.aliexpress.com/item/4000103596931.html?spm=a2g0s.9042311.0.0.26194c4dYd3kvQ)  
+![Extruder](/images/Extruder150.png)
+
 )  
 10 stk [POWER MAGNET, SKIVE 12X6 MM](https://www.magnetz.dk/power-magnet-skive-12x6-mm)
 
@@ -200,3 +206,16 @@ eller
   * [Bigtreetech SKR V1.4 (Turbo) comprehensive guide](https://www.youtube.com/watch?v=-Gdk0wHg51w)
   * [BTT TFT35 dual mode touch screen guide](https://www.youtube.com/watch?v=l1Putn10_Ek)
   * [Add wifi to your Bigtreetech mainboard/touchscreen - ESP-01S guide](https://www.youtube.com/watch?v=AGTF-JEUHNA)
+
+# Tips and Triks
+## indsæt magneter i print
+Kilde: [Pause print in gcode ](https://forum.prusaprinters.org/forum/original-prusa-i3-mk2-s-others-archive/pause-print-in-gcode/#p125758)  
+
+Video: [Embedded Magnets Thanks to Flipping Normals!](https://www.youtube.com/watch?v=oF1SdIR-Kow)
+
+Code:
+```
+G1 X10.000 Y200.000 E0; parking position GET THE PRUSA TO STICK IT'S TONGUE OUT! (edited to revise Y coordinate)
+M1; user stop
+M105; return to current temp
+```
