@@ -79,7 +79,8 @@ eller
 ![Heated Bed](/images/20200405_093641.jpg)  
 1 x [PrimaCreator FlexPlate PEI 410 x 410 mm](https://3dstore.dk/tilbehoer/print-surface/primacreator-flexplate-pei-410-x-410-mm/)  
 1 x Aluplate 430x430x3 mm  
-1 x Flex pe coated plade - MGLo63.00.15 P1908084 
+1 x Flex pe coated plade - MGLo63.00.15 P1908084  
+1 x [Hvid Magnetfolie. Selvklæbende. 50 cm](https://www.boxdelux.dk/shop/hvid-magnetfolie-selvklaebende-20277p.html)  
 10 x [Type A - Hot bed platform leveling spring length 25mm outer diameter 10mm ID 5mm ](https://www.aliexpress.com/item/33001295923.html?spm=a2g0s.9042311.0.0.26194c4dYd3kvQ)
 ![Fjedr-Type-A](/images/Fjeder-Type-A.png)
 
