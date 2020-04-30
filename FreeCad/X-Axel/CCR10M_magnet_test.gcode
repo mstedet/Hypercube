@@ -583,6 +583,13 @@ G0 F9000 X155.518 Y115.518
 G0 X144.25 Y115.75
 ;TIME_ELAPSED:97.129290
 ;LAYER:3
+
+G1 X10.000 Y200.000 E0; parking position GET THE PRUSA TO STICK IT'S TONGUE OUT! (edited to revise Y coordinate)
+M1; user stop
+G28 X Y
+M105; return to current temp
+
+
 M106 S255
 ;TYPE:WALL-INNER
 ;MESH:magnet_test.stl

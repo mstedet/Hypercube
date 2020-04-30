@@ -216,6 +216,7 @@ Video: [Embedded Magnets Thanks to Flipping Normals!](https://www.youtube.com/wa
 Code:
 ```
 G1 X10.000 Y200.000 E0; parking position GET THE PRUSA TO STICK IT'S TONGUE OUT! (edited to revise Y coordinate)
-M1; user stop
+M0 Indsæt magnet ; user stop
+G28 X Y ; Home x y aksel
 M105; return to current temp
 ```
